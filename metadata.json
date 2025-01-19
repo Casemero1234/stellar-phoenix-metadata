@@ -1,0 +1,6 @@
+{
+    "name": "Stellar Phoenix",
+    "symbol": "SPHX",
+    "uri": "https://example.com/metadata.json",
+    "seller_fee_basis_points": 500
+}
